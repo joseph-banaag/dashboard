@@ -1,4 +1,7 @@
 {
-  "cSpell.words": ["Lusitana"],
-  "editor.fontFamily": "Adwaita Sans, monospace"
+	"cSpell.words": ["Lusitana"],
+	"editor.fontFamily": "Adwaita Sans, monospace",
+	"editor.guides.indentation": false,
+	"prettier.vueIndentScriptAndStyle": true,
+	"prettier.useTabs": true
 }

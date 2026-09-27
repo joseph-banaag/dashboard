@@ -3,7 +3,7 @@ import { UpdateInvoice, DeleteInvoice } from "@/app/ui/invoices/buttons";
 import InvoiceStatus from "@/app/ui/invoices/status";
 import { formatDateToLocal, formatCurrency } from "@/app/lib/utils";
 import { fetchFilteredInvoices } from "@/app/lib/data";
-import { data } from "autoprefixer";
+// import { data } from "autoprefixer";
 import NoResults from "@/app/ui/no-results"
 
 export default async function InvoicesTable({

@@ -1,4 +1,4 @@
-import Form from "@/app/ui/invoices/edit-form";
+import Form from "@/app/ui/invoices/edit-form";  // The name Form can be named anything as long as the file path is correct.
 import Breadcrumbs from "@/app/ui/invoices/breadcrumbs";
 import { fetchInvoiceById, fetchCustomers } from "@/app/lib/data";
 

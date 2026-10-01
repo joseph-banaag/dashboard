@@ -1,7 +1,8 @@
 {
 	"cSpell.words": ["Lusitana"],
-	"editor.fontFamily": "Adwaita Sans, monospace",
+	"editor.fontFamily": "Adwaita Sans",
 	"editor.guides.indentation": false,
 	"prettier.vueIndentScriptAndStyle": true,
-	"prettier.useTabs": true
+	"prettier.useTabs": true,
+	"editor.fontSize": 13
 }
